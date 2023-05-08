@@ -1,7 +1,7 @@
 # Telecom - project objective:
-Learn to predict customer churn for the telecommunications operator "Niyeдиногоразрыва.com".
+ - Learn to predict customer churn for the telecommunications operator "Niyeдиногоразрыва.com".
 
-If it turns out that a user is planning to leave, offer them promo codes and special conditions.
+ - If it turns out that a user is planning to leave, offer them promo codes and special conditions.
 
 Description of services
 The operator provides two main types of services:
